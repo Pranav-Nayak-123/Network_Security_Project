@@ -1,0 +1,12 @@
+Traffic Summary Report
+============================================================
+Total Packets: 630
+Unique IP Addresses: 4
+Most Active Source IP: 13.107.137.11
+Most Active Destination IP: 192.168.29.158
+Most Used Protocol: HTTPS
+Most Used Port: 61120
+Number of Alerts: 2
+Average Packet Size: 3381.58
+Capture Duration (seconds): 3.14
+============================================================
